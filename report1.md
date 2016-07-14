@@ -1,4 +1,4 @@
-.課題１
+.# 課題１
 
 標準画像「http://beautyinsight.jp/wp-content/uploads/2015/11/arimurakasumi1.jpg」を原画像とする．この画像は縦512画像，横512画素による正方形のディジタルカラー画像である．
 
