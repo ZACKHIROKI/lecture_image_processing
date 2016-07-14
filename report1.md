@@ -1,4 +1,5 @@
-標準画像「http://beautyinsight.jp/wp-content/uploads/2015/11/arimurakasumi1.jpg」を原画像とする．この画像は縦512画像，横512画素による正方形のディジタルカラー画像である．
+標準画像「http://beautyinsight.jp/wp-content/uploads/2015/11/arimurakasumi1.jpg」を原画像とする．
+この画像は縦512画像，横512画素による正方形のディジタルカラー画像である．
 
 ORG=imread('Lenna.png'); % 原画像の入力
 imagesc(ORG); axis image; % 画像の表示
