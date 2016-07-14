@@ -1,12 +1,13 @@
-標準画像「http://beautyinsight.jp/wp-content/uploads/2015/11/arimurakasumi1.jpg」を原画像とする．
-この画像は縦512画像，横512画素による正方形のディジタルカラー画像である．
+.課題１
+
+標準画像「http://beautyinsight.jp/wp-content/uploads/2015/11/arimurakasumi1.jpg」を原画像とする．この画像は縦512画像，横512画素による正方形のディジタルカラー画像である．
 
 ORG=imread('Lenna.png'); % 原画像の入力
 imagesc(ORG); axis image; % 画像の表示
 
 によって，原画像を読み込み，表示した結果を図１に示す．
 
-図1 原画像
+![原画像]
 
 原画像を1/2サンプリングするには，画像を1/2倍に縮小した後，2倍に拡大すればよい．なお，拡大する際には，単純補間するために「box」オプションを設定する．
 
